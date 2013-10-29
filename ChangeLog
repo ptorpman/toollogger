@@ -1,0 +1,8 @@
+2012-05-02   Peter R. Torpman <ptorpman@sourceforge net>
+	* Added a C# implementation of the ToolLogger
+
+2005-02-06   Peter R. Torpman <ptorpman@sourceforge net>
+	* Cleaned up some code.
+
+2003-11-13  Peter R. Torpman <ptorpman@sourceforge net>
+	* Initial release (0.1)

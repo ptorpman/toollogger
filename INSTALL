@@ -1,0 +1,29 @@
+Basic Installation
+==================
+
+First, edit the src/config.h and src/Makefile to suit your
+preferences.
+Then, just 'make all' and 'make install' to install on your
+system.
+Easy huh? ;-)
+
+
+Server Installation
+===================
+
+You will need to add your service in the /etc/services file
+on the machine where you intend to run the ToolLogger.
+
+Add a line that looks something like this:
+
+        mylogservice    11111/udp       # My ToolLogger service
+
+You will need to restart inetd/xinetd after this addition.
+
+
+
+
+
+
+
+
